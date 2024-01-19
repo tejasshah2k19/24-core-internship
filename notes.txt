@@ -1,0 +1,167 @@
+java -- programming lang. 
+
+
+? 
+
+
+computer  --- binary  --- 001011101011 
+
+user --- eng 
+
+
+
+   
+eng --> 01001 
+ 
+
+
+instructions -> eng -> program 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+
+HL    Translator  LL 
+
+Translator -> 
+	compiler --> whole at once --> list errors  
+	interpreter  --> line by line --> error at line 2 XXX 
+
+
+
+HL  : eng : user 
+LL  : system : 010101 binary 
+
+
+HL ---> execute --->  Transaltor -->  LL -->  system
+ 
+
+
+lang? 
+
+C -> compiler  
+C++ ->  compiler 
+Python ->  interpreter 
+Java ->  compiler + interpreter
+
+
+JDK -> 
+
+JRE -> JVM JIT ClassLoader 
+
+ 
+
+------------------------
+
+file -> new -> java project -> 
+
+file -> new -> other -> type java -> java project -> 
+
+java version -> 1.8 
+
+--------------------------------
+
+POP -> add() sub() mul() div()
+OOP ->  class -> object   
+
+
+
+class  --> logical , group , general  ,   Men , HB 
+
+object  -> physical , member , special , DhirajSir 
+
+
+Projector ->  class 
+
+Iphone -> class 
+
+Laptop -> class 
+
+Lenovo Ideapad gaming 3 SIN12345X  -> object 
+
+Bank -> class
+
+ICICIBank -> class 
+
+Customer -> class 
+
+
+
+class --> property -> variable , method 
+
+	variable -> data name ->store value 
+
+Bank 
+	balance 
+	userName
+	password 
+	
+
+	wid()
+	deposit()
+
+
+
+Amazon	
+	
+	Product 
+		productId
+		name
+		price 
+		qty 
+		category 
+		
+		updateProduct() 
+		printProductInfo() 
+		searchProduct()
+		listProduct() 
+
+	User 
+		firstName 
+		lastName
+		email
+		password
+		gender 
+		dob 
+
+		signup()
+		login()
+		forgetPassword()
+		changePassword()
+
+
+	
+	Cart 
+		addToCart()
+		removeCart() 
+		listCart() 
+
+		checkOut()
+	Address 
+		addressFinal()
+	Order 	
+		placeOrder()
+	Payment	
+		payment() 
+------------------------------------------------
+window menu -> show view -> project explorer 
+window menu -> show view -> others -> type  ->project explorer 
+------------------------------------------------
+
+first -> java -> 
+
+	class -> variable + method 
+	
+	object -> 
+	
+	
+
+
+
