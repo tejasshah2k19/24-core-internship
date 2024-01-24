@@ -161,6 +161,223 @@ first -> java ->
 	
 	object -> 
 	
+------------------------------------------------------------------------------
+	Employee mgmt 
+		n number of employee works
+		salary 
+		email
+		password
+		gender 
+		dob 
+		
+		process -> enroll -> data input
+		
+		report -> print -> 
+		
+		
+		how many class ? Employee 
+		variable ?
+		method ?
+		 
+Employee.java 
+-----------------------------------------------------------		
+	
+how to open project explorer ? 
+	window->show view -> other -> type -> project -> select project explorer 
+		 
+	
+#include<stdio.h>
+
+printf
+scanf 
+gets 
+puts	
+
+java -> class 	
+	
+			Scanner -> 
+			File ->
+			Date ->
+			Cal -> 
+			Pattern ->
+			Math -> 
+			String ->
+			
+			
+			
+import -> 
+	
+
+	movie ->
+			hollywood 
+				hindi
+				eng 
+			bollywood
+					drama
+					action
+					 
+	java -> 
+		lang -> String System Math 
+		util ->  Scanner  
+		io   ->  PrintWriter File FileOutputStream 
+		applet -> Applet Graphic 
+		net -> 
+		security ->
+		sql -> 
+
+
+import java.util.Scanner; 
+
+--------------------------------------------------------
+ 
+	JB -> 
+	
+	1 For Dabeli(25RS) 
+	2 For Vada(30RS) 
+	3 For Chole(80RS) 
+	Enter Your Choice 
+	
+	1
+	
+	Enter Qty: 
+	10 
+	
+	Bill : 250
+
+----------------------------------------------------------
+
+Student 
+	enrollStudent
+		name , email ,password 
+		
+		maths sci eng {out of 100 } 
+		grade -> 90+ A  70+ B  35+ C  <35 F  
+	
+	
+	display -> 
+	Name Email Password Maths Sci Eng Percentage Grade 
+	
+
+	enrollStudent 
+	inputMarks      { input } 
+	calculateResult { percentage , grade } 
+	display  { all variable display } 
+	
+--------------------------------------------------------
+
+
+java.lang -> 
+	class 
+	
+	
+by default -> java.lang 
+
+java.util
+java.io
+java.sql
+java.applet 
+
+
+------------------------------------------
+
+how many data types we have in java? 
+1)primitive 
+	
+2)non primitive 
+
+
+-------------------------------------------
+javac 
+java
+
+how many public class we can create in  1 java file ? 
+1 
+
+how many class we can create?
+n numbers 
+
+------------------------------------------
+
+if 
+if else 
+if else if else if else 
+
+
+a = 10
+b = 10 
+
+if(a > b ){
+	
+}
+
+if( b > a ){
+	
+}
+
+
+if( a == b) {
+
+}
+
+
+
+a = 10;
+
+if( a > 0 ){
+  + 
+}else{
+  - 
+}
+
+------------------------------------------------------------
+
+age = 23 
+gender = 1; //1 male 0 female 
+
+22+ gender => male -> eligible 
+	
+if( age >= 22 &&  gender == 1 ){
+
+	S.o.p("Eligible");
+}	
+------------------------------------------------------------
+
+
+loop -> iterative -> 
+
+
+1) start 
+2) condition 
+3) increment / decrement 
+
+	
+	1 ++ 1000 
+	
+--------------------------------------------------------
+
+BasicCalc 
+	add() sub() mul() div() 
+	
+SciCalc
+	sin() sqrt() cube() floor() power(2,3) -> 2^3 
+	
+--------------------------------------------------------	 
+	 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 
 
