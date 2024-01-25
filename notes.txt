@@ -362,7 +362,18 @@ SciCalc
 	sin() sqrt() cube() floor() power(2,3) -> 2^3 
 	
 --------------------------------------------------------	 
-	 	
+BasicCalc 
+		add
+		sub
+		mul
+		
+SciCalc 
+		sqrt
+		sin
+		cube
+		power 
+		
+			 	
 	
 	
 	
