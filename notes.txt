@@ -372,8 +372,25 @@ SciCalc
 		sin
 		cube
 		power 
+
+---------------------------------------------------
+method overloading 
+
+
+override -> 
+
+	Parent 
+			void add() 
+			void sub(int a) 
 		
-			 	
+	Child 
+			void div()
+			void add() -> override 
+			void sub(double a) -> overloading 
+			void div(double d) -> overloading 
+			
+---------------------------------------------------------
+
 	
 	
 	
