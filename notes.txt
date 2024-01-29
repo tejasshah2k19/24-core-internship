@@ -393,6 +393,16 @@ override ->
 
 	
 	
+lang - java 
+
+Backend - spring boot 
+Frontend - jsp , bootstrap 
+Database - MySQL
+
+
+title - XXX
+
+IDE&TOOLS - Spring tool suite - STS , MysqlWorkBench
 	
 	
 	
